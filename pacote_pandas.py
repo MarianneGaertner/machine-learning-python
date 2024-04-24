@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 alunos = {'Nome': ['Ricardo', 'Pedro', 'Roberto', 'Carlos'],
-          'Nota': [4, 5, 5.5, 9],
+          'Nota': [4, 6, 5.5, 9],
           'Aprovado': ['Não', 'Sim', 'Não', 'Sim']}
 
 dataframe = pd.DataFrame(alunos)
